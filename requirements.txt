@@ -1,0 +1,14 @@
+# Core dependencies for transformer experiments
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+evaluate>=0.4.0
+accelerate>=0.20.0
+tokenizers>=0.13.0
+
+# Training and utilities
+numpy>=1.24.0
+
+# Development
+matplotlib>=3.7.0
+
